@@ -1,0 +1,9 @@
+# setari fereastra
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+BG_COLOR = (30, 30, 30)
+
+#setari boid
+BOID_COLOR = (200, 220, 255)
+BOID_SIZE = 6
